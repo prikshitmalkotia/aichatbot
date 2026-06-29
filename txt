@@ -1,0 +1,7 @@
+LLM:    large language model
+
+    API:    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
+
+    base_link:  https://api.groq.com/openai/v1
+
+    model:  llama-3.1-8b-instant
